@@ -1,6 +1,6 @@
-## Hi there 👋
+## Igor Azevedo Vidal - IgorVidal01 👋
 
-[![Red Hat System Administration I (RH124 - RHA) - Ver. 9.3](https://www.credly.com/badges/50ee893a-1e38-4f71-b293-47b03947bea4/public_url)]
+[![Red Hat System Administration I (RH124 - RHA) - Ver. 9.3](https://images.credly.com/size/220x220/images/1bc718d9-6aae-4b20-81f9-a19b4982a026/blob]
 <!--
 **IgorVidal01/IgorVidal01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
