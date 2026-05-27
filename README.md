@@ -1,6 +1,13 @@
-## Igor Azevedo Vidal - IgorVidal01 👋
+## Igor Azevedo Vidal - IgorVidal01 
 
-[(<img src="https://images.credly.com/size/220x220/images/1bc718d9-6aae-4b20-81f9-a19b4982a026/blob" height="50"></a>](https://www.credly.com/badges/50ee893a-1e38-4f71-b293-47b03947bea4/public_url)
+
+### Cursos: 
+[<img src="https://images.credly.com/size/220x220/images/1bc718d9-6aae-4b20-81f9-a19b4982a026/blob" height="50"></a>](https://www.credly.com/badges/50ee893a-1e38-4f71-b293-47b03947bea4/public_url)
+&nbsp;&nbsp;&nbsp;
+[<img src="https://images.credly.com/size/220x220/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" height="50"></a>](https://www.credly.com/badges/273b09d0-624f-4474-88fd-1bf4b632c3c0/public_url)
+&nbsp;&nbsp;&nbsp;
+[<img src="https://images.credly.com/size/220x220/images/7bf55491-f0df-488f-84bf-4d51ada45316/blob" height="50"></a>](https://www.credly.com/badges/c3e09f03-0e1d-4fe3-8cfa-01233eae97bb/public_url)
+&nbsp;&nbsp;&nbsp;
 <!--
 **IgorVidal01/IgorVidal01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
